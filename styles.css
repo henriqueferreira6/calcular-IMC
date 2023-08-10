@@ -2,15 +2,16 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #cac9c9;
+    text-align: center;
 }
 
 .container {
     max-width: 400px;
     margin: 100px auto;
     padding: 20px;
-    background-color: #b4b7be;
-    border-radius: 5px;
+    background-color: #6a6b6e;
+    border-radius: 7px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
